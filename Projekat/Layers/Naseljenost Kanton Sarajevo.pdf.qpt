@@ -1,0 +1,145 @@
+<Layout units="mm" worldFileMap="{9f3d8172-7447-41cf-8165-a7d227625b52}" printResolution="300" name="population">
+ <Snapper snapToItems="1" snapToGrid="0" snapToGuides="1" tolerance="5"/>
+ <Grid offsetY="0" offsetX="0" resUnits="mm" offsetUnits="mm" resolution="10"/>
+ <PageCollection>
+  <symbol clip_to_extent="1" force_rhr="0" name="" alpha="1" type="fill">
+   <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+    <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="35,35,35,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option value="" name="name" type="QString"/>
+      <Option name="properties"/>
+      <Option value="collection" name="type" type="QString"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+  <LayoutItem type="65638" frame="false" size="297,210,mm" position="0,0,mm" templateUuid="{8aab3426-db7b-431f-a009-78ac137ffcf5}" positionOnPage="0,0,mm" background="true" positionLock="false" outlineWidthM="0.3,mm" uuid="{8aab3426-db7b-431f-a009-78ac137ffcf5}" opacity="1" visibility="1" zValue="0" frameJoinStyle="miter" excludeFromExports="0" groupUuid="" itemRotation="0" referencePoint="0" blendMode="0" id="">
+   <FrameColor red="0" blue="0" green="0" alpha="255"/>
+   <BackgroundColor red="255" blue="255" green="255" alpha="255"/>
+   <LayoutObject>
+    <dataDefinedProperties>
+     <Option type="Map">
+      <Option value="" name="name" type="QString"/>
+      <Option name="properties"/>
+      <Option value="collection" name="type" type="QString"/>
+     </Option>
+    </dataDefinedProperties>
+    <customproperties/>
+   </LayoutObject>
+   <symbol clip_to_extent="1" force_rhr="0" name="" alpha="1" type="fill">
+    <layer enabled="1" pass="0" class="SimpleFill" locked="0">
+     <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="color" v="255,255,255,255"/>
+     <prop k="joinstyle" v="miter"/>
+     <prop k="offset" v="0,0"/>
+     <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="outline_color" v="35,35,35,255"/>
+     <prop k="outline_style" v="no"/>
+     <prop k="outline_width" v="0.26"/>
+     <prop k="outline_width_unit" v="MM"/>
+     <prop k="style" v="solid"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option value="" name="name" type="QString"/>
+       <Option name="properties"/>
+       <Option value="collection" name="type" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </LayoutItem>
+  <GuideCollection visible="1"/>
+ </PageCollection>
+ <LayoutItem positionLock="false" visibility="1" wmsLegendHeight="25" lineSpacing="1" outlineWidthM="0.3,mm" equalColumnWidth="0" groupUuid="" frame="false" position="48.3981,143.97,mm" wrapChar="" boxSpace="2" legendFilterByAtlas="0" columnSpace="2" blendMode="0" symbolHeight="4" splitLayer="0" type="65642" symbolWidth="7" frameJoinStyle="miter" templateUuid="{a68b78b7-409c-4510-acf0-1e30c992c46f}" resizeToContents="1" title="" titleAlignment="1" columnCount="1" wmsLegendWidth="50" rasterBorderColor="0,0,0,255" rasterBorder="1" excludeFromExports="0" id="" background="true" map_uuid="{9f3d8172-7447-41cf-8165-a7d227625b52}" uuid="{a68b78b7-409c-4510-acf0-1e30c992c46f}" opacity="1" fontColor="#000000" referencePoint="0" size="50.5,44,mm" symbolAlignment="1" positionOnPage="48.3981,143.97,mm" itemRotation="0" rasterBorderWidth="0" zValue="3">
+  <FrameColor red="0" blue="0" green="0" alpha="255"/>
+  <BackgroundColor red="255" blue="255" green="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option value="" name="name" type="QString"/>
+     <Option name="properties"/>
+     <Option value="collection" name="type" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <styles>
+   <style alignment="1" marginBottom="3.5" name="title">
+    <styleFont description="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0" style=""/>
+   </style>
+   <style alignment="1" name="group" marginTop="3">
+    <styleFont description="MS Shell Dlg 2,14,-1,5,50,0,0,0,0,0" style=""/>
+   </style>
+   <style alignment="1" name="subgroup" marginTop="3">
+    <styleFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" style=""/>
+   </style>
+   <style alignment="1" name="symbol" marginTop="2.5">
+    <styleFont description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+   </style>
+   <style alignment="1" marginLeft="2" name="symbolLabel" marginTop="2">
+    <styleFont description="MS Shell Dlg 2,12,-1,5,50,0,0,0,0,0" style=""/>
+   </style>
+  </styles>
+  <layer-tree-group>
+   <customproperties/>
+   <layer-tree-layer checked="Qt::Checked" source="MultiPolygon?crs=EPSG:4326&amp;field=full_id:string(0,0)&amp;field=osm_id:string(0,0)&amp;field=osm_type:string(0,0)&amp;field=ISO3166-1:string(0,0)&amp;field=ISO3166-1%3Aalpha2:string(0,0)&amp;field=ISO3166-1%3Aalpha3:string(0,0)&amp;field=ISO3166-1%3Anumeric:string(0,0)&amp;field=admin_level:string(0,0)&amp;field=alt_name%3Aaf:string(0,0)&amp;field=alt_name%3Aals:string(0,0)&amp;field=alt_name%3Aar:string(0,0)&amp;field=alt_name%3Aba:string(0,0)&amp;field=alt_name%3Abs:string(0,0)&amp;field=alt_name%3Acv:string(0,0)&amp;field=alt_name%3Acy:string(0,0)&amp;field=alt_name%3Ada:string(0,0)&amp;field=alt_name%3Ade:string(0,0)&amp;field=alt_name%3Ael:string(0,0)&amp;field=alt_name%3Aeo:string(0,0)&amp;field=alt_name%3Aes:string(0,0)&amp;field=alt_name%3Aeu:string(0,0)&amp;field=alt_name%3Aff:string(0,0)&amp;field=alt_name%3Afi:string(0,0)&amp;field=alt_name%3Afr:string(0,0)&amp;field=alt_name%3Afrp:string(0,0)&amp;field=alt_name%3Afy:string(0,0)&amp;field=alt_name%3Agd:string(0,0)&amp;field=alt_name%3Agu:string(0,0)&amp;field=alt_name%3Aha:string(0,0)&amp;field=alt_name%3Ahif:string(0,0)&amp;field=alt_name%3Ailo:string(0,0)&amp;field=alt_name%3Ais:string(0,0)&amp;field=alt_name%3Ait:string(0,0)&amp;field=alt_name%3Ajv:string(0,0)&amp;field=alt_name%3Aka:string(0,0)&amp;field=alt_name%3Akoi:string(0,0)&amp;field=alt_name%3Aku:string(0,0)&amp;field=alt_name%3Alb:string(0,0)&amp;field=alt_name%3Alt:string(0,0)&amp;field=alt_name%3Alzh:string(0,0)&amp;field=alt_name%3Amap-bms:string(0,0)&amp;field=alt_name%3Aml:string(0,0)&amp;field=alt_name%3Anap:string(0,0)&amp;field=alt_name%3Apag:string(0,0)&amp;field=alt_name%3Apcd:string(0,0)&amp;field=alt_name%3Apl:string(0,0)&amp;field=alt_name%3Aro:string(0,0)&amp;field=alt_name%3Aroa-tara:string(0,0)&amp;field=alt_name%3Arw:string(0,0)&amp;field=alt_name%3Asc:string(0,0)&amp;field=alt_name%3Asv:string(0,0)&amp;field=alt_name%3Avec:string(0,0)&amp;field=alt_name%3Avi:string(0,0)&amp;field=boundary:string(0,0)&amp;field=default_language:string(0,0)&amp;field=flag:string(0,0)&amp;field=int_name:string(0,0)&amp;field=name:string(0,0)&amp;field=name%3Aace:string(0,0)&amp;field=name%3Aaf:string(0,0)&amp;field=name%3Aak:string(0,0)&amp;field=name%3Aals:string(0,0)&amp;field=name%3Aam:string(0,0)&amp;field=name%3Aan:string(0,0)&amp;field=name%3Aang:string(0,0)&amp;field=name%3Aar:string(0,0)&amp;field=name%3Aarc:string(0,0)&amp;field=name%3Aarz:string(0,0)&amp;field=name%3Aast:string(0,0)&amp;field=name%3Aav:string(0,0)&amp;field=name%3Aaz:string(0,0)&amp;field=name%3Aazb:string(0,0)&amp;field=name%3Aba:string(0,0)&amp;field=name%3Abar:string(0,0)&amp;field=name%3Abat-smg:string(0,0)&amp;field=name%3Abcl:string(0,0)&amp;field=name%3Abe:string(0,0)&amp;field=name%3Abe-tarask:string(0,0)&amp;field=name%3Abg:string(0,0)&amp;field=name%3Abh:string(0,0)&amp;field=name%3Abi:string(0,0)&amp;field=name%3Abm:string(0,0)&amp;field=name%3Abn:string(0,0)&amp;field=name%3Abo:string(0,0)&amp;field=name%3Abpy:string(0,0)&amp;field=name%3Abr:string(0,0)&amp;field=name%3Abs:string(0,0)&amp;field=name%3Abxr:string(0,0)&amp;field=name%3Aca:string(0,0)&amp;field=name%3Acbk-zam:string(0,0)&amp;field=name%3Acdo:string(0,0)&amp;field=name%3Ace:string(0,0)&amp;field=name%3Aceb:string(0,0)&amp;field=name%3Achr:string(0,0)&amp;field=name%3Ackb:string(0,0)&amp;field=name%3Aco:string(0,0)&amp;field=name%3Acrh:string(0,0)&amp;field=name%3Acs:string(0,0)&amp;field=name%3Acsb:string(0,0)&amp;field=name%3Acu:string(0,0)&amp;field=name%3Acv:string(0,0)&amp;field=name%3Acy:string(0,0)&amp;field=name%3Ada:string(0,0)&amp;field=name%3Ade:string(0,0)&amp;field=name%3Adiq:string(0,0)&amp;field=name%3Adsb:string(0,0)&amp;field=name%3Adty:string(0,0)&amp;field=name%3Adv:string(0,0)&amp;field=name%3Aee:string(0,0)&amp;field=name%3Ael:string(0,0)&amp;field=name%3Aen:string(0,0)&amp;field=name%3Aeo:string(0,0)&amp;field=name%3Aes:string(0,0)&amp;field=name%3Aet:string(0,0)&amp;field=name%3Aeu:string(0,0)&amp;field=name%3Aext:string(0,0)&amp;field=name%3Afa:string(0,0)&amp;field=name%3Aff:string(0,0)&amp;field=name%3Afi:string(0,0)&amp;field=name%3Afiu-vro:string(0,0)&amp;field=name%3Afo:string(0,0)&amp;field=name%3Afr:string(0,0)&amp;field=name%3Afrp:string(0,0)&amp;field=name%3Afrr:string(0,0)&amp;field=name%3Afur:string(0,0)&amp;field=name%3Afy:string(0,0)&amp;field=name%3Aga:string(0,0)&amp;field=name%3Agag:string(0,0)&amp;field=name%3Agd:string(0,0)&amp;field=name%3Agl:string(0,0)&amp;field=name%3Agn:string(0,0)&amp;field=name%3Agom:string(0,0)&amp;field=name%3Agu:string(0,0)&amp;field=name%3Agv:string(0,0)&amp;field=name%3Aha:string(0,0)&amp;field=name%3Ahak:string(0,0)&amp;field=name%3Ahaw:string(0,0)&amp;field=name%3Ahe:string(0,0)&amp;field=name%3Ahi:string(0,0)&amp;field=name%3Ahif:string(0,0)&amp;field=name%3Ahr:string(0,0)&amp;field=name%3Ahsb:string(0,0)&amp;field=name%3Aht:string(0,0)&amp;field=name%3Ahu:string(0,0)&amp;field=name%3Ahy:string(0,0)&amp;field=name%3Aia:string(0,0)&amp;field=name%3Aid:string(0,0)&amp;field=name%3Aie:string(0,0)&amp;field=name%3Aig:string(0,0)&amp;field=name%3Ailo:string(0,0)&amp;field=name%3Aio:string(0,0)&amp;field=name%3Ais:string(0,0)&amp;field=name%3Ait:string(0,0)&amp;field=name%3Aja:string(0,0)&amp;field=name%3Ajam:string(0,0)&amp;field=name%3Ajbo:string(0,0)&amp;field=name%3Ajv:string(0,0)&amp;field=name%3Aka:string(0,0)&amp;field=name%3Akaa:string(0,0)&amp;field=name%3Akab:string(0,0)&amp;field=name%3Akbd:string(0,0)&amp;field=name%3Akg:string(0,0)&amp;field=name%3Aki:string(0,0)&amp;field=name%3Akk:string(0,0)&amp;field=name%3Akl:string(0,0)&amp;field=name%3Akm:string(0,0)&amp;field=name%3Akn:string(0,0)&amp;field=name%3Ako:string(0,0)&amp;field=name%3Akoi:string(0,0)&amp;field=name%3Akrc:string(0,0)&amp;field=name%3Aksh:string(0,0)&amp;field=name%3Aku:string(0,0)&amp;field=name%3Aku-Arab:string(0,0)&amp;field=name%3Akv:string(0,0)&amp;field=name%3Akw:string(0,0)&amp;field=name%3Aky:string(0,0)&amp;field=name%3Ala:string(0,0)&amp;field=name%3Alad:string(0,0)&amp;field=name%3Alb:string(0,0)&amp;field=name%3Ali:string(0,0)&amp;field=name%3Alij:string(0,0)&amp;field=name%3Almo:string(0,0)&amp;field=name%3Aln:string(0,0)&amp;field=name%3Alo:string(0,0)&amp;field=name%3Alrc:string(0,0)&amp;field=name%3Alt:string(0,0)&amp;field=name%3Altg:string(0,0)&amp;field=name%3Alv:string(0,0)&amp;field=name%3Alzh:string(0,0)&amp;field=name%3Amap-bms:string(0,0)&amp;field=name%3Amdf:string(0,0)&amp;field=name%3Amg:string(0,0)&amp;field=name%3Amhr:string(0,0)&amp;field=name%3Ami:string(0,0)&amp;field=type:string(0,0)&amp;field=ISO3166-2:string(0,0)&amp;field=name%3Anl:string(0,0)&amp;field=name%3Aro:string(0,0)&amp;field=name%3Aru:string(0,0)&amp;field=name%3Asr:string(0,0)&amp;field=name%3Aur:string(0,0)&amp;field=short_name:string(0,0)&amp;field=short_name%3Asr:string(0,0)&amp;field=wikidata:string(0,0)&amp;field=wikipedia:string(0,0)&amp;field=alt_name%3Aen:string(0,0)&amp;field=name%3Amk:string(0,0)&amp;field=name%3Asr-Latn:string(0,0)&amp;field=wikipedia%3Abs:string(0,0)&amp;field=alt_name%3Agl:string(0,0)&amp;field=alt_name%3Ahr:string(0,0)&amp;field=official_name:string(0,0)&amp;field=population:string(0,0)&amp;field=sorting_name:string(0,0)&amp;field=name%3Azh:string(0,0)&amp;field=official_name%3Asr:string(0,0)&amp;field=official_name%3Asr-Latn:string(0,0)&amp;uid={ea3fcc8a-fe24-4d0b-ad79-7ecf48f394d0}" legend_exp="" name="boundary_administrative" id="multipolygons_eb6b51ed_7987_4b04_860c_f4a1b507a8b3" expanded="1" providerKey="memory">
+    <customproperties>
+     <property key="expandedLegendNodes"/>
+     <property value="hidden" key="legend/title-style"/>
+     <property value="1" key="showFeatureCount"/>
+    </customproperties>
+   </layer-tree-layer>
+   <custom-order enabled="0"/>
+  </layer-tree-group>
+ </LayoutItem>
+ <LayoutItem labelText="Naseljenost Kanton Sarajevo" type="65641" frame="false" htmlState="0" size="122.341,6.08938,mm" position="51.4656,56.3798,mm" templateUuid="{fc63be23-9ccc-41b5-9238-2ad62282eda7}" positionOnPage="51.4656,56.3798,mm" background="false" halign="4" positionLock="false" marginY="-3" outlineWidthM="0.3,mm" uuid="{fc63be23-9ccc-41b5-9238-2ad62282eda7}" opacity="1" visibility="1" zValue="2" frameJoinStyle="miter" excludeFromExports="0" groupUuid="" valign="128" itemRotation="0" referencePoint="0" blendMode="0" marginX="-2" id="Naseljenost Kanton Sarajevo">
+  <FrameColor red="0" blue="0" green="0" alpha="255"/>
+  <BackgroundColor red="255" blue="255" green="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option value="" name="name" type="QString"/>
+     <Option name="properties"/>
+     <Option value="collection" name="type" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="Times New Roman,24,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor red="0" blue="0" green="0" alpha="255"/>
+ </LayoutItem>
+ <LayoutItem drawCanvasItems="true" type="65639" frame="false" size="138.85,71.0049,mm" position="43.2112,69.4975,mm" templateUuid="{9f3d8172-7447-41cf-8165-a7d227625b52}" positionOnPage="43.2112,69.4975,mm" background="true" labelMargin="0,mm" positionLock="false" outlineWidthM="0.3,mm" uuid="{9f3d8172-7447-41cf-8165-a7d227625b52}" opacity="1" visibility="1" zValue="2" frameJoinStyle="miter" keepLayerSet="false" excludeFromExports="0" groupUuid="" itemRotation="0" referencePoint="0" followPreset="false" mapRotation="0" blendMode="0" followPresetName="" mapFlags="0" id="">
+  <FrameColor red="0" blue="0" green="0" alpha="255"/>
+  <BackgroundColor red="255" blue="255" green="255" alpha="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option value="" name="name" type="QString"/>
+     <Option name="properties"/>
+     <Option value="collection" name="type" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <Extent ymin="5408961.85398887097835541" ymax="5470844.16058583837002516" xmax="2096244.87290233327075839" xmin="1975234.15901418216526508"/>
+  <LayerSet/>
+  <AtlasMap margin="0.10000000000000001" atlasDriven="0" scalingMode="2"/>
+  <labelBlockingItems/>
+ </LayoutItem>
+ <customproperties>
+  <property value="png" key="atlasRasterFormat"/>
+ </customproperties>
+ <Atlas enabled="0" filenamePattern="'output_'||@atlas_featurenumber" coverageLayer="" sortFeatures="0" hideCoverage="0" pageNameExpression="" filterFeatures="0"/>
+</Layout>
